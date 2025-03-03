@@ -17,7 +17,7 @@ Spring Boot 기반의 백엔드 개발과 **Kafka, Redis, ActiveMQ** 등의 메�
 - **Prometheus + Grafana 모니터링 시스템 구축**
 - **AWS ECS 및 Docker 컨테이너 기반 배포**
 
-🚀 **프로젝트 자세히 보기** 👉 [UMP 프로젝트 상세 설명](https://github.com/thdwlgh44/UMP)
+🚀 **프로젝트 자세히 보기** 👉 [UMP 프로젝트 상세 설명](https://github.com/thdwlgh44/messaging-service)
 
 ---
 
@@ -30,7 +30,6 @@ Spring Boot 기반의 백엔드 개발과 **Kafka, Redis, ActiveMQ** 등의 메�
 | **MySQL**                 | 메시지 발송 이력 저장 |
 | **Docker, AWS ECS (Fargate)**   | 컨테이너 기반 배포 |
 | **Prometheus + Grafana**        | 서버 모니터링 및 성능 개선 |
-| **API Gateway (Nginx)**         | 클라이언트 요청 라우팅 |
 
 ---
 
